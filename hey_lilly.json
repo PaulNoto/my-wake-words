@@ -2,7 +2,7 @@
   "type": "micro",
   "wake_word": "hey_lilly",
   "author": "PaulNoto",
-  "model": "https://raw.githubusercontent.com/PaulNoto/my-wake-words/hey_lilly.tflite",
+  "model": "github://PaulNoto/my-wake-words/hey_lilly.tflite@main",
   "trained_languages": ["en"],
   "version": 2,
   "micro": {
