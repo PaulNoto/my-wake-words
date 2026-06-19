@@ -1,6 +1,6 @@
 {
   "type": "micro",
-  "wake_word": "hey_lilly",
+  "wake_word": "okay_nabu",
   "author": "PaulNoto",
   "version": 2,
   "minimum_esphome_version": "2024.6.0",
@@ -13,3 +13,4 @@
     "feature_step_size": 20
   }
 }
+
