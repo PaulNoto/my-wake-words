@@ -1,6 +1,6 @@
 {
   "type": "micro",
-  "wake_word": "hey_jarvis",
+  "wake_word": "hey_lilly",
   "author": "PaulNoto",
   "version": 2,
   "minimum_esphome_version": "2024.6.0",
