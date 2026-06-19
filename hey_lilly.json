@@ -1,6 +1,6 @@
 {
   "type": "micro",
-  "wake_word": "okay_nabu",
+  "wake_word": "alexa",
   "author": "PaulNoto",
   "version": 2,
   "minimum_esphome_version": "2024.6.0",
